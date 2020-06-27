@@ -11,7 +11,7 @@ markdown
 reportlab
 requests
 requests_oauthlib
-Pillow==4.0.0
+Pillow==6.2.3
 premailer
 populus==2.0.0a4
 psycopg2
