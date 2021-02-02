@@ -1,6 +1,6 @@
 bs4
 ccxt
-django==1.11
+django==2.2.18
 django-bootstrap3==8.2.3
 django-filter
 django-ratelimit
