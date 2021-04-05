@@ -4,14 +4,14 @@ django==1.11
 django-bootstrap3==8.2.3
 django-filter
 django-ratelimit
-djangorestframework==3.4.0
+djangorestframework==3.11.2
 django-filter
 gunicorn
 markdown
 reportlab
 requests
 requests_oauthlib
-Pillow==4.0.0
+Pillow==8.2.0
 premailer
 populus==2.0.0a4
 psycopg2
