@@ -22,6 +22,7 @@ slackclient
 web3
 mailchimp3
 django_chartit==0.2.9
-MechanicalSoup==0.9.0.post4
+MechanicalSoup==1.3.0
 statistics
 
+aiohttp>=3.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
