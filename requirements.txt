@@ -4,7 +4,7 @@ django==1.11
 django-bootstrap3==8.2.3
 django-filter
 django-ratelimit
-djangorestframework==3.4.0
+djangorestframework==3.15.2
 django-filter
 gunicorn
 markdown
